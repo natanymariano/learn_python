@@ -31,3 +31,12 @@ print(nomeExe3)
 nomeExe4 = ['Natany', 'Milene', 'Larissa', 'Juliana']
 nomeExe4.remove('Milene')
 print(nomeExe4)
+
+#Descobrir o index de algum elemento utilizando o METHOD INDEX
+nomeExe5 = ['Carlos', 'Marcos', 'Fernanda', 'Julia']
+print(nomeExe5.index('Julia'))
+
+#Ordenar listas em ordem METHOD SORT
+nomeExe6 = ['Carlos', 'Marcos', 'Fernanda', 'Julia']
+nomeExe6.sort()
+print(nomeExe6)
